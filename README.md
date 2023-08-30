@@ -4,7 +4,7 @@
 <p>First </p>
 <code>npm install</code>
 <p>Second </p>
-<p>npm run dev</p>
+<p><code>npm run dev</code></p>
 
 ### Have a nice coding time
 
